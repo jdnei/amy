@@ -3,7 +3,7 @@
 AmyTelecom机场官网地址</br>
 #### 机场最近不太稳定，推荐去：[吹雪云](https://github.com/jdnei/chuixuecloud)</br>
 
-官方地址：[www.amytele.co](https://www.amytele.co/)</br>
+官方地址：[www.amytele.co](https://to.iix.im/amy01)</br>
 ## 邀请码
 ## 简介
 AmyTelecom提供IPLC专线网络加速服务，覆盖多地节点，适合流媒体、远程办公及日常稳定访问。
