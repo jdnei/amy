@@ -1,5 +1,5 @@
 
-# AmyTelecom机场官方地址(2026年8月16日更新)
+# AmyTelecom机场官方地址(2026年8月17日更新)
 AmyTelecom机场官网地址</br>
 #### 机场最近不太稳定，推荐去：[吹雪云](https://github.com/jdnei/chuixuecloud)</br>
 
