@@ -1,10 +1,21 @@
 
 # AmyTelecom机场官方地址(2026年8月20日更新)
 AmyTelecom机场官网地址</br>
-#### 机场最近不太稳定，推荐去：[吹雪云](https://github.com/jdnei/chuixuecloud)</br>
-
+最新地址：[www.amytele.co](https://to.iix.im/amy01)</br>
 官方地址：[www.amytele.co](https://to.iix.im/amy01)</br>
+
+机场最近出现断联情况，可以试试吹雪云机场：[测评](https://github.com/jdnei/chuixuecloud)</br>
+
+2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
+## Telegram VPN 机场福利社 #AD
+[机场抽奖群](https://331024.de/archives/choujiang)｜[机场聊天群](https://331024.de/archives/choujiang)｜[机场体验群](https://331024.de/archives/choujiang)</br>
+
+[https://331024.de/archives/choujiang](https://331024.de/archives/choujiang)
+
 ## 邀请码
+`无`
+## 优惠码/折扣码
+`无`
 ## 简介
 AmyTelecom提供IPLC专线网络加速服务，覆盖多地节点，适合流媒体、远程办公及日常稳定访问。
 ## 优势
