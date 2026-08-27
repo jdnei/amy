@@ -4,7 +4,7 @@ AmyTelecom机场官网地址</br>
 最新地址：[www.amytele.co](https://to.iix.im/amy01)</br>
 官方地址：[www.amytele.co](https://to.iix.im/amy01)</br>
 
-机场最近出现断联情况，可以试试吹雪云机场：[测评](https://github.com/jdnei/chuixuecloud)</br>
+最近有断连情况，没年付的，可以试试TAG专线机场：[测评](https://github.com/jdnei/TAG)</br>
 
 2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
 ## Telegram VPN 机场福利社 #AD
