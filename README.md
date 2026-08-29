@@ -1,5 +1,5 @@
 
-# AmyTelecom机场官方地址(2026年8月28日更新)
+# AmyTelecom机场官方地址(2026年8月29日更新)
 AmyTelecom机场官网地址</br>
 最新地址：[www.amytele.co](https://to.iix.im/amy01)</br>
 官方地址：[www.amytele.co](https://to.iix.im/amy01)</br>
