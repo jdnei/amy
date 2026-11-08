@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 Русский | 🇮🇷 [فارسی](README_FA.md)
 
-# Официальный сайт AmyTelecom VPN (обновлено 7 ноября 2026)
+# Официальный сайт AmyTelecom VPN (обновлено 8 ноября 2026)
 
 Официальный сайт AmyTelecom VPN<br>
 Актуальный адрес: [www.amytele.co](https://to.iix.im/amy01)<br>
