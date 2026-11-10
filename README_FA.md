@@ -1,6 +1,6 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
 
-# وب‌سایت رسمی AmyTelecom VPN(به‌روزرسانی 9 نوامبر 2026)
+# وب‌سایت رسمی AmyTelecom VPN(به‌روزرسانی 10 نوامبر 2026)
 وب‌سایت رسمی AmyTelecom VPN<br>
 آخرین آدرس: [www.amytele.co](https://to.iix.im/amy01)<br>
 آدرس رسمی: [www.amytele.co](https://to.iix.im/amy01)<br>
